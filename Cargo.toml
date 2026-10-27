@@ -1,0 +1,3 @@
+[workspace]
+members = ["programs/solana-token2022-confidential-transfer"]
+resolver = "2"
